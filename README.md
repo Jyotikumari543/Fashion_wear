@@ -1,5 +1,5 @@
 # MernProject_EcommerceApp
-#fashoin_Wear
+#fashion_Wear
 
 Developing an online shopping system named "Fashion Wear" using MERN (MongoDB, Express.js, React.js, Node.js) technologies can result in a dynamic and scalable e-commerce platform.
 
