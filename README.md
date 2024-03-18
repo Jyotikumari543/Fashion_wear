@@ -65,25 +65,19 @@ Provide filtering options to narrow down search results based on price, size, co
 # Userside Ui
 
 
-
-
-![Screenshot 2024-01-19 210835](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/f995e3ae-b14d-429b-a0ab-0692462d98ca)
-
+![Screenshot 2024-03-04 144328](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/0f24a2fa-f9e4-4048-92eb-dd7666f4dae2)
 
 
 
-
-
-![Screenshot 2024-01-19 210859]
-(https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/27fd4e99-4b78-40b3-ba4f-723b85e7c40b)
-
-
-![Screenshot 2024-01-19 210951](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/8b3780a8-4b83-4031-8e77-d17495f5481d)
+![Screenshot 2024-03-04 144349](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/5f4b2bc4-5286-4fc2-a059-b94bb5f00217)
 
 
 
+![Screenshot 2024-03-04 144412](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/526921da-ea7c-4a4a-b50a-cfd398d62f53)
 
-![Screenshot 2024-03-18 145137](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/339fdbbd-8d59-49b6-8b76-a8017c50de9a)
+
+![Screenshot 2024-03-04 144456](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/98771521-3b32-47ab-bea4-ff76c88af300)
+
 
 
 
@@ -128,6 +122,7 @@ Provide filtering options to narrow down search results based on price, size, co
 
 
 
+![Screenshot 2024-03-18 150012](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/374c3256-1c39-49b7-82ea-447b17e84af1)
 
 
 
