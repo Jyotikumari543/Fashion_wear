@@ -172,13 +172,6 @@ Provide filtering options to narrow down search results based on price, size, co
 
 
 
-![Screenshot 2024-03-18 150012](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/85339e86-fb7a-4860-a8a0-eecdb40864d9)
-
-
-
-
-
-
 
 
 
