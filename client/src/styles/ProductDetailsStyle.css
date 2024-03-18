@@ -1,0 +1,42 @@
+.product-image-medium {
+  width: 100%; /* Adjust the width of the image to fit the column */
+  max-width: 400px; /* Set a maximum width to ensure it doesn't stretch too much */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Add a slight border radius for a more polished look */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+}
+
+.product-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.product-description {
+  font-size: 16px;
+  color: #666;
+}
+
+.product-price {
+  font-size: 18px;
+  color: #666;
+}
+
+.product-category {
+  font-size: 16px;
+  color: #888;
+}
+
+.add-to-cart-btn {
+  background-color: #00aaff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #0077cc;
+}

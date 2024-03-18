@@ -1,0 +1,24 @@
+.profile-container {
+  margin-top: 20px;
+}
+
+.profile-heading {
+  margin-bottom: 20px;
+}
+
+.profile-form {
+  max-width: 600px;
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.btn-primary {
+  margin-top: 20px;
+}

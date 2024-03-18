@@ -1,0 +1,95 @@
+/* Header.css */
+
+/* Navbar */
+.navbar {
+  background-color: #3b82f6; /* Blue background */
+}
+
+/* Navbar Container */
+.navbar-container {
+  max-width: 1200px; /* Limit the width of the navbar */
+  margin: 0 auto; /* Center the navbar horizontally */
+  padding: 1rem 2rem; /* Add padding */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Navbar Brand */
+.navbar-brand {
+  color: #fff; /* White text color */
+  text-decoration: none;
+  font-size: 1.5rem; /* Larger font size */
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand svg {
+  font-size: 1.5rem; /* Adjust icon size */
+  margin-right: 0.5rem; /* Add spacing between icon and text */
+}
+
+/* Nav Links */
+.nav-link {
+  color: #fff; /* White text color */
+  text-decoration: none;
+  font-size: 1rem; /* Medium font size */
+  margin-left: 1.5rem; /* Add spacing between links */
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #d1d5db; /* Lighter text color on hover */
+}
+
+/* Dropdown */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%; /* Position dropdown below the link */
+  left: 0;
+  z-index: 1000; /* Ensure dropdown is above other elements */
+  display: none;
+  background-color: #3b82f6; /* Blue background */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow */
+  border-radius: 0.5rem; /* Rounded corners */
+  padding: 0.5rem 0; /* Add padding */
+  margin-top: 0.5rem; /* Add margin between link and dropdown */
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block; /* Show dropdown on hover */
+}
+
+/* Dropdown Menu Item */
+.dropdown-menu-item {
+  padding: 0.5rem 1rem;
+  color: #fff; /* White text color */
+  text-decoration: none;
+  display: block;
+  transition: background-color 0.3s ease;
+}
+
+.dropdown-menu-item:hover {
+  background-color: #2563eb; /* Darker blue background on hover */
+}
+
+/* Badge */
+.badge {
+  position: relative;
+}
+
+.badge-count {
+  background-color: #ff4f00; /* Orange background color */
+  color: #fff; /* White text color */
+  border-radius: 999px; /* Large border radius for circular shape */
+  padding: 0.25rem 0.5rem; /* Adjust padding */
+  font-size: 0.8rem; /* Adjust font size */
+  position: absolute;
+  top: 0;
+  right: 0;
+}

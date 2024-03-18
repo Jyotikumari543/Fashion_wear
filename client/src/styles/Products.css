@@ -1,0 +1,32 @@
+/* Products.css */
+
+.product-link {
+        text-decoration: none;
+        color: inherit;
+      }
+      
+      .card {
+        width: 18rem;
+        height: 100%; /* Increase the height of the card */
+        margin: 10px; /* Add margin for spacing */
+      }
+      
+      .card-img-top {
+        object-fit: cover; /* Ensure the photo fits the card */
+        height: 200px; /* Set the height of the image */
+      }
+      
+      .card-body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      
+      .card-title {
+        margin-bottom: 0.5rem;
+      }
+      
+      .card-text {
+        flex-grow: 1; /* Allow description to grow vertically */
+      }
+      
