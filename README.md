@@ -7,7 +7,7 @@ Developing an online shopping system named "Fashion Wear" using MERN (MongoDB, E
 
 # Technologies Used:
 
-# MongoDB:
+ # MongoDB:
 
 Database for storing product information, user data, orders, and other relevant data.
 Utilize MongoDB's flexibility to handle unstructured data and scale as the application grows.
@@ -110,6 +110,9 @@ Provide filtering options to narrow down search results based on price, size, co
 
 
 
+
+
+
 ![Screenshot 2024-03-18 145827](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/4f405d88-37e6-411d-85c8-20df6018cfe2)
 
 
@@ -125,4 +128,69 @@ Provide filtering options to narrow down search results based on price, size, co
 
 
 
+
+
+
+
+# ADMIN side UI Interface
+
+
+
+
+
+
+![Screenshot 2024-03-18 201125](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/909f1ab8-8ecd-416d-9971-e73746c1b14b)
+
+
+
+
+
+
+
+
+![Screenshot 2024-03-18 201137](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/83fa6c16-ca5b-4664-a4d9-1a6325a8b347)
+
+
+
+
+
+![Screenshot 2024-03-18 201148](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/ee21e6fe-a954-442b-8e1e-1a3d7b448ecd)
+
+
+
+
+
+![Screenshot 2024-03-18 201202](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/9d8abdcc-875c-4e32-bf30-f546e277768f)
+
+
+
+
+
+
+
+
+
+
+
 ![Screenshot 2024-03-18 150012](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/85339e86-fb7a-4860-a8a0-eecdb40864d9)
+
+
+
+
+
+
+
+
+
+
+![Screenshot 2024-03-18 201213](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/12b79fdc-1a0a-4807-8196-702dd6ecedd0)
+
+
+
+
+
+
+
+
+![Screenshot 2024-03-18 201227](https://github.com/Jyotikumari543/Fashion_wear/assets/113599566/c0961a21-7a9a-4a22-a0b1-1f07c31f59d1)
+
